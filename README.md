@@ -163,6 +163,9 @@ Enter a city name and click **Get Weather** or press **Enter**.
 ```text
 Weather-App/
 │
+├── screenshots/
+│   └── screenshot.png
+│
 ├── main.py
 ├── logo.png
 ├── requirements.txt

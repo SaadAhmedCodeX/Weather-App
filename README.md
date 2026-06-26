@@ -48,7 +48,7 @@ A desktop weather application built using Python, Tkinter, and the OpenWeather A
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SaadAhmedCodeX/Weather-App.git
+git clone https://github.com/s4adx/Weather-App.git
 
 cd Weather-App
 ```
